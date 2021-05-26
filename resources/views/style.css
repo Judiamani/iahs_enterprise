@@ -1,0 +1,44 @@
+//medium phone size
+			@media screen and (max-width: 480px) {
+				
+			   .navbar {
+			    max-width: 100%;
+			    max-height: 25%;
+			      
+			   }
+			   			   
+			   .details-card{
+			   	max-width: 100%;
+	
+			   	align-content: center;
+			   	
+			   }
+			   .slider{
+			   	max-width: 100%;
+			   	max-height: 25%;
+			   	
+			   }
+			   .details-card .container .row .col-md-4 .card-content{
+			   	margin-left: 100px;
+			   	max-width: 100%;
+			   	
+			   }
+			   .form-control form-control-navbar{
+			   	max-width: 100%;
+			   	margin-left: 5px;
+			   	
+			   }
+			
+			   
+
+			}
+
+			.slider .slide_viewer .slide_group .slide img{
+			   	max-width: 100%;
+			   	max-height: 100%;
+			   }
+
+			.overlay{
+			   	width: 1000px;
+			   }
+			
