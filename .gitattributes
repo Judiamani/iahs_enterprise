@@ -1,5 +1,8 @@
-* text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-CHANGELOG.md export-ignore
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+*.java linguist-detectable=false
+*.python linguist-detectable=false 
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.php linguist-detectable=true 
+*.xml linguist-detectable=false
